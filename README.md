@@ -1,51 +1,65 @@
-# Jonnas Figueiredo
+<h1 align="center">Olá, eu sou o Jonnas Figueiredo</h1>
 
-QA Automation Engineer, Brazil. Three years in Quality Assurance,
-the last one building automation in Java and bringing AI into the day-to-day testing
-work. I started on manual QA and moved into automation as the test suites grew — these
-days most of what I do is framework code, API checks and CI pipelines, plus internal
-talks on automation and AI for the team.
+<p align="center">
+  <b>QA Automation Engineer</b> · Brasil<br>
+  Testes confiáveis, frameworks de automação e IA aplicada à qualidade.
+</p>
 
-I'm aiming at QA Automation / SDET and AI QA roles.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonnas-figueiredo-576a14181">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jonnas.figueiredo01@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
 
-### How I approach testing
+---
 
-A few things I've settled on after breaking enough suites:
+## Sobre mim
 
-- Flaky tests are bugs, not noise. I'd rather delete a test than let it lie.
-- No fixed waits. Web-first assertions and explicit conditions over `waitForTimeout`.
-- Page Objects should compose, not copy — shared components get injected, not duplicated.
-- A test that nobody can read at 6pm on a Friday is a test that rots. Clarity first.
-- AI is a power tool for scaffolding and data, not an excuse to skip thinking about coverage.
+Sou engenheiro de QA com três anos na área de qualidade. Comecei no teste manual e migrei
+para automação, onde hoje passo a maior parte do tempo: escrevendo código de framework,
+validando APIs, montando pipelines de CI e trazendo IA para dentro do fluxo de testes.
 
-### Projects
+Gosto de teste que dá pra confiar. Trato teste instável como bug — prefiro apagar um teste a
+deixar ele mentindo. Na prática isso significa esperas explícitas no lugar de `sleep` fixo,
+Page Objects compostos em vez de duplicação, e código que o time inteiro consegue ler e manter.
+Uso IA como andaime para acelerar, mas a cobertura e o raciocínio de teste continuam sendo meus.
 
-**[ShopGuard](https://github.com/JonnasFigueiredo/ShopGuard)** — End-to-end framework
-on Playwright + TypeScript (strict). 29 specs running across 5 browsers (Chromium,
-Firefox, WebKit, Pixel 7, iPhone 14) and split into functional, mobile, visual,
-accessibility (WCAG 2.1 AA) and API suites. Page Object Model with composition, custom
-fixtures, a 6-shard GitHub Actions matrix, and Allure reports auto-published to Pages.
-ESLint is set up to ban fixed waits and enforce web-first assertions.
+---
 
-**[hefesto](https://github.com/JonnasFigueiredo/hefesto)** — Open-source QA console that
-puts AI inside the testing loop. Connects multiple LLMs, pulls context from Jira,
-generates structured test cases from manuals and user stories, lets you attach evidence
-per case, and exports a PDF report ready for the ticket. Specialist "agents" are plain
-Markdown files; backend in Java + Spring Boot, frontend in React, local SQLite.
+## Tecnologias
 
-### Tools I reach for
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/REST_Assured-007ACC?style=for-the-badge&logo=java&logoColor=white" alt="REST Assured">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Allure-FF4088?style=for-the-badge&logo=qameta&logoColor=white" alt="Allure">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-Automation: Java, TypeScript, Playwright, Selenium, RestAssured, JUnit
-Backend & data: Spring Boot, SQL
-Workflow: GitHub Actions, Jira, Postman, Git, Allure
-AI in the loop: Claude, Copilot, Cursor
+---
 
-### Currently
+## Skills que domino
 
-Deepening framework design and API/contract testing, and exploring how to evaluate
-LLM outputs reliably (the messy part of AI QA).
-
-### Contact
-
-LinkedIn: [jonnas-figueiredo](https://www.linkedin.com/in/jonnas-figueiredo-576a14181/) ·
-Email: jonnas.figueiredo01@hotmail.com
+```text
+Java                █████████░   90%
+Playwright          █████████░   90%
+Automação de testes █████████░   90%
+JUnit 5             ████████░░   80%
+TypeScript          ████████░░   80%
+Selenium            ████████░░   80%
+CI/CD (Actions)     ████████░░   80%
+Testes de API       ███████░░░   70%
+SQL                 ███████░░░   70%
+Spring Boot         ██████░░░░   60%
