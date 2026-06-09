@@ -16,17 +16,6 @@
 
 ---
 
-## Sobre mim
-
-Sou engenheiro de QA com três anos na área de qualidade. Comecei no teste manual e migrei
-para automação, onde hoje passo a maior parte do tempo: escrevendo código de framework,
-validando APIs, montando pipelines de CI e trazendo IA para dentro do fluxo de testes.
-
-Gosto de teste que dá pra confiar. Trato teste instável como bug — prefiro apagar um teste a
-deixar ele mentindo. Na prática isso significa esperas explícitas no lugar de `sleep` fixo,
-Page Objects compostos em vez de duplicação, e código que o time inteiro consegue ler e manter.
-Uso IA como andaime para acelerar, mas a cobertura e o raciocínio de teste continuam sendo meus.
-
 ---
 
 ## Tecnologias
