@@ -115,7 +115,7 @@ I'm a quality engineer focused on **automation that scales**: Page Objects with 
 
 **UI/E2E test automation** — Playwright (multi-project, fixtures, sharding, visual regression, a11y with axe-core), Selenium, Page Object Model with composition, tag-based strategy.<br>
 **API & integration testing** — REST Assured, Postman, HTTP contracts + SQL state validation, real concurrency testing, mock-free testing against containerized environments.<br>
-**Languages** — Java (17/21), TypeScript (strict), SQL.<br>
+**Languages** — Java (8/17/21), TypeScript (strict), SQL.<br>
 **Backend & test infrastructure** — Spring Boot 3, MySQL, Docker multi-stage + Compose, Flyway, OpenAPI.<br>
 **CI/CD & code quality** — GitHub Actions (sharded matrices, caching, Pages deploys), Allure, type-aware ESLint, Husky + commitlint + Conventional Commits.<br>
 **AI applied to QA** — LLM evaluation in CI (baselines, deterministic evals, LLM-as-judge), specialist agents for test case generation, LLM integration into QA workflows.
