@@ -2,6 +2,18 @@
 
 <p align="center">QA Automation Engineer · SDET</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonnas-figueiredo-576a14181">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@JonnasFigo">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:jonnas.figueiredo01@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonnasFigueiredo/JonnasFigueiredo/output/github-contribution-grid-snake-dark.svg">
@@ -9,18 +21,6 @@
     <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/JonnasFigueiredo/JonnasFigueiredo/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonnas-figueiredo-576a14181">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.youtube.com/@JonnasFigo">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:jonnas.figueiredo01@hotmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
 
 ## Sobre mim
 
