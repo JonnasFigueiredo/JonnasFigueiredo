@@ -36,17 +36,6 @@ Quando sobra tempo, compartilho o que aprendo no meu [canal do YouTube](https://
   <img src="https://skillicons.dev/icons?i=java,selenium,spring,ts,py,fastapi,docker,githubactions,mysql,git&theme=dark&perline=10" alt="Tecnologias">
 </p>
 
-## GitHub em números
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JonnasFigueiredo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnasFigueiredo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas">
-
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://media.giphy.com/media/Wm9XlKG2xIMiVcH4CP/giphy.gif" width="100%" alt="banner">
 </p>
