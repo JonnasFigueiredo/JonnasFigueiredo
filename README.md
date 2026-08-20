@@ -26,9 +26,9 @@
 
 Sou engenheiro de automação de testes (QA/SDET) com mais de 3 anos de experiência. Meu maior domínio é em Java e Selenium, mas o que me move mesmo é entender o negócio por trás do sistema. No fim, é isso que faz um teste valer alguma coisa.
 
-Gosto de construir ferramentas e frameworks de automação do zero, só que ferramenta boa sem entender o domínio só automatiza o teste errado mais rápido. Já passei por API financeira, e-commerce e integrações, testando desde o estado do banco até a sanidade de um LLM.
+Hoje trabalho como engenheiro de QA numa empresa, testando aplicações web, mobile, API e backend. No dia a dia mexo mais com Java, Selenium, Appium e TypeScript, montando e mantendo a automação que dá segurança pro time entregar.
 
-Quando sobra tempo, compartilho o que aprendo no meu [canal do YouTube](https://www.youtube.com/@JonnasFigo).
+Também gosto de compartilhar o que aprendo: faço palestras sobre qualidade e automação de testes e mantenho um [canal no YouTube](https://www.youtube.com/@JonnasFigo).
 
 ## Tecnologias
 
