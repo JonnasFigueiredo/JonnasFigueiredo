@@ -22,6 +22,10 @@
   </picture>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Jonnas+Figueiredo!+%F0%9F%91%8B" alt="Olá, sou Jonnas Figueiredo">
+</p>
+
 ## Sobre mim
 
 Sou engenheiro de automação de testes (QA/SDET) com mais de 3 anos de experiência. Meu maior domínio é em Java e Selenium, mas o que me move mesmo é entender o negócio por trás do sistema. No fim, é isso que faz um teste valer alguma coisa.
