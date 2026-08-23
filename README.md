@@ -1,5 +1,3 @@
-<p align="center">QA Automation Engineer · SDET</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonnasFigueiredo/JonnasFigueiredo/output/github-contribution-grid-snake-dark.svg">
@@ -9,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Jonnas+Figueiredo!+%F0%9F%91%8B" alt="Olá, sou Jonnas Figueiredo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&center=true&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Jonnas+Figueiredo!+%F0%9F%91%8B;QA+Automation+Engineer+%C2%B7+SDET" alt="Olá, sou Jonnas Figueiredo - QA Automation Engineer">
 </p>
 
 ## Sobre mim
