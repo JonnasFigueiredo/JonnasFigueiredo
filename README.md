@@ -7,8 +7,10 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&center=true&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Jonnas+Figueiredo!+%F0%9F%91%8B;QA+Automation+Engineer+%C2%B7+SDET" alt="Olá, sou Jonnas Figueiredo - QA Automation Engineer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Jonnas+Figueiredo!+%F0%9F%91%8B" alt="Olá, sou Jonnas Figueiredo">
 </p>
+
+<p align="center">QA Automation Engineer</p>
 
 ## Sobre mim
 
