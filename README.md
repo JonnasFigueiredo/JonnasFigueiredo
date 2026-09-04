@@ -18,17 +18,7 @@ Trabalho com testes de aplicações web, mobile, API e backend. Além de Java e 
 
 Também gosto de compartilhar o que aprendo: faço palestras sobre qualidade e automação de testes.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonnas-figueiredo-576a14181">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.youtube.com/@JonnasFigo">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:jonnas.figueiredo01@hotmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
+Contribuo com projetos open source quando encontro algo que dá pra melhorar. No [Pillow](https://github.com/python-pillow/Pillow/pull/9906) corrigi um heap-buffer-overflow no `BoxBlur`, e no [testcontainers-python](https://github.com/testcontainers/testcontainers-python/pull/1105) implementei o módulo Toxiproxy.
 
 ## Tecnologias
 
