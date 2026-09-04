@@ -20,12 +20,15 @@ Também gosto de compartilhar o que aprendo: faço palestras sobre qualidade e a
 
 Contribuo com projetos open source quando encontro algo que dá pra melhorar. No [Pillow](https://github.com/python-pillow/Pillow/pull/9906) corrigi um heap-buffer-overflow no `BoxBlur`, e no [testcontainers-python](https://github.com/testcontainers/testcontainers-python/pull/1105) implementei o módulo Toxiproxy.
 
+## Projetos
+
+- **[hefesto](https://github.com/JonnasFigueiredo/hefesto)**: plataforma de QA assistida por IA, também exposta como servidor MCP. Recebe um requisito em texto ou print de tela e devolve história no Jira, casos de teste e relatório de cobertura.
+- **[Aletheia](https://github.com/JonnasFigueiredo/Aletheia)**: framework Java para testar qualidade de LLM dentro do CI. Roda casos de avaliação contra um cliente mock, sem custo de API e sem flakiness, compara com um baseline versionado e quebra o build quando a qualidade regride.
+- **[proteu](https://github.com/JonnasFigueiredo/proteu)**: extensão Chrome que gera massa de dados de teste com seed determinística e visível. A mesma seed reproduz exatamente a mesma massa, então um bug achado com aqueles dados volta a acontecer.
+- **[Hermes](https://github.com/JonnasFigueiredo/Hermes)**: framework de testes E2E mobile com Appium 2 e Java 21, com reset determinístico de estado e emulador Android rodando dentro do GitHub Actions.
+
 ## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,selenium,spring,ts,py,fastapi,docker,githubactions,mysql,git&theme=dark&perline=10" alt="Tecnologias">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Wm9XlKG2xIMiVcH4CP/giphy.gif" width="100%" alt="banner">
 </p>
