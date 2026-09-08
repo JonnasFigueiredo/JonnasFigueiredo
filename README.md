@@ -18,7 +18,7 @@ Trabalho com testes de aplicações web, mobile, API e backend. Além de Java e 
 
 Também gosto de compartilhar o que aprendo: faço palestras sobre qualidade e automação de testes.
 
-Contribuo com projetos open source quando encontro algo que dá pra melhorar. No [Pillow](https://github.com/python-pillow/Pillow/pull/9906) corrigi um heap-buffer-overflow no `BoxBlur`. No [moto](https://github.com/getmoto/moto/pull/10211) implementei o `UpdatePipe` do EventBridge Pipes, e no [testcontainers-python](https://github.com/testcontainers/testcontainers-python/pull/1105) o módulo Toxiproxy.
+Contribuo com projetos open source quando encontro algo que dá pra melhorar. No [moto](https://github.com/getmoto/moto/pulls?q=is%3Apr+author%3AJonnasFigueiredo+is%3Amerged) implementei três APIs da AWS que faltavam: upload de camadas no ECR, atributos de serviço no Cloud Map e `UpdatePipe` no EventBridge Pipes. No [Pillow](https://github.com/python-pillow/Pillow/pull/9906) corrigi um heap-buffer-overflow no `BoxBlur`, e no [testcontainers-python](https://github.com/testcontainers/testcontainers-python/pull/1105) implementei o módulo Toxiproxy.
 
 ## Projetos
 
