@@ -24,7 +24,7 @@ Contribuo com projetos open source quando encontro algo que dá pra melhorar. No
 
 - **[Proteu QA](https://github.com/JonnasFigueiredo/proteu)** · [Chrome Web Store](https://chromewebstore.google.com/detail/proteu-qa/edpjppimngkekieldgokejdccfpiehgn): extensão para QAs que gera dados de teste realistas de 12 países e transforma elementos da tela em código pronto para automação, sem enviar nada para fora do navegador.
 - **[Hefesto](https://github.com/JonnasFigueiredo/hefesto)**: plataforma com IA para QA e PO. A partir de um requisito, ou até de um print da tela, escreve a história no Jira, avalia se ela está pronta para desenvolvimento, cria os casos de teste e mostra o que ficou sem cobertura. Também funciona direto pelo chat de assistentes de IA e com modelos que rodam no próprio computador.
-- **[Hermes](https://github.com/JonnasFigueiredo/Hermes)**: framework de testes automatizados para aplicativos de celular. Os mesmos testes, escritos em português, rodam em Android e iOS, cada um começando do zero, e são executados automaticamente a cada mudança no código, com [relatório publicado](https://jonnasfigueiredo.github.io/Hermes/).
+- **[Hermes](https://github.com/JonnasFigueiredo/Hermes)**: framework de automação de testes E2E mobile com Appium, Java e Cucumber. Os mesmos cenários, escritos em português, rodam em Android e iOS sem duplicar código: só os seletores mudam de uma plataforma para outra, e o alvo (emulador local ou grade de emuladores em Docker) é escolhido por configuração. No GitHub Actions, a suíte roda em uma matriz de emuladores Android e em simulador iOS, com [relatório Allure publicado](https://jonnasfigueiredo.github.io/Hermes/).
 
 ## Tecnologias
 
