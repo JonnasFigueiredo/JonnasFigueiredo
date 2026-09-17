@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Sou engenheiro de automação de testes (QA/SDET) com mais de 3 anos de experiência. Meu maior domínio é em Java e Selenium, mas o que me move mesmo é entender o negócio por trás do sistema. No fim, é isso que faz um teste valer alguma coisa.
+Trabalho com tecnologia desde 2018 e hoje atuo como QA Automation Engineer (SDET). Meu maior domínio é em Java e Selenium, mas o que me move mesmo é entender o negócio por trás do sistema. No fim, é isso que faz um teste valer alguma coisa.
 
 Trabalho com testes de aplicações web, mobile, API e backend. Além de Java e Selenium, mexo bastante com Appium e TypeScript, montando e mantendo a automação que dá segurança pra entregar sem regressão.
 
@@ -22,10 +22,9 @@ Contribuo com projetos open source quando encontro algo que dá pra melhorar. No
 
 ## Projetos
 
-- **[hefesto](https://github.com/JonnasFigueiredo/hefesto)**: plataforma de QA assistida por IA, também exposta como servidor MCP. Recebe um requisito em texto ou print de tela e devolve história no Jira, casos de teste e relatório de cobertura.
-- **[Aletheia](https://github.com/JonnasFigueiredo/Aletheia)**: framework Java para testar qualidade de LLM dentro do CI. Roda casos de avaliação contra um cliente mock, sem custo de API e sem flakiness, compara com um baseline versionado e quebra o build quando a qualidade regride.
-- **[proteu](https://github.com/JonnasFigueiredo/proteu)**: extensão Chrome que gera massa de dados de teste com seed determinística e visível. A mesma seed reproduz exatamente a mesma massa, então um bug achado com aqueles dados volta a acontecer.
-- **[Hermes](https://github.com/JonnasFigueiredo/Hermes)**: framework de testes E2E mobile com Appium 2 e Java 21, com reset determinístico de estado e emulador Android rodando dentro do GitHub Actions.
+- **[Proteu QA](https://github.com/JonnasFigueiredo/proteu)** · [Chrome Web Store](https://chromewebstore.google.com/detail/proteu-qa/edpjppimngkekieldgokejdccfpiehgn): extensão para QAs que gera dados de teste realistas de 12 países e transforma elementos da tela em código pronto para automação, sem enviar nada para fora do navegador.
+- **[Hefesto](https://github.com/JonnasFigueiredo/hefesto)**: plataforma com IA para QA e PO. A partir de um requisito, ou até de um print da tela, escreve a história no Jira, avalia se ela está pronta para desenvolvimento, cria os casos de teste e mostra o que ficou sem cobertura. Também funciona direto pelo chat de assistentes de IA e com modelos que rodam no próprio computador.
+- **[Hermes](https://github.com/JonnasFigueiredo/Hermes)**: framework de testes automatizados para aplicativos de celular. Os mesmos testes, escritos em português, rodam em Android e iOS, cada um começando do zero, e são executados automaticamente a cada mudança no código, com [relatório publicado](https://jonnasfigueiredo.github.io/Hermes/).
 
 ## Tecnologias
 
