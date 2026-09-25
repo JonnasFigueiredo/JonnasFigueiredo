@@ -18,7 +18,7 @@ Trabalho com testes de aplicações web, mobile, API e backend. Além de Java e 
 
 Também gosto de compartilhar o que aprendo: faço palestras sobre qualidade e automação de testes.
 
-Contribuo com projetos open source quando encontro algo que dá pra melhorar. No [moto](https://github.com/getmoto/moto/pulls?q=is%3Apr+author%3AJonnasFigueiredo+is%3Amerged) implementei três APIs da AWS que faltavam: upload de camadas no ECR, atributos de serviço no Cloud Map e `UpdatePipe` no EventBridge Pipes. No [Pillow](https://github.com/python-pillow/Pillow/pull/9906) corrigi um heap-buffer-overflow no `BoxBlur`, no [testcontainers-python](https://github.com/testcontainers/testcontainers-python/pull/1105) implementei o módulo Toxiproxy, e contribuí com a [documentação do JUnit](https://github.com/junit-team/junit-framework/pull/6010) sobre estado em extensões.
+Contribuo com projetos open source quando encontro algo que dá pra melhorar. No [moto](https://github.com/getmoto/moto/pulls?q=is%3Apr+author%3AJonnasFigueiredo+is%3Amerged) implementei três APIs da AWS que faltavam: upload de camadas no ECR, atributos de serviço no Cloud Map e `UpdatePipe` no EventBridge Pipes. No [Pillow](https://github.com/python-pillow/Pillow/pull/9906) corrigi um heap-buffer-overflow no `BoxBlur`. No testcontainers escrevi dois módulos novos, [Toxiproxy em Python](https://github.com/testcontainers/testcontainers-python/pull/1105) e [InfluxDB em TypeScript](https://github.com/testcontainers/testcontainers-node/pull/1445). No JUnit, escrevi a [seção da documentação sobre instâncias e estado de extensões](https://github.com/junit-team/junit-framework/pull/6010).
 
 ## Projetos
 
