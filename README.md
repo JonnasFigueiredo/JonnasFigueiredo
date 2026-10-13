@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Jonnas+Figueiredo!+%F0%9F%91%8B;QA+Automation+Engineer" alt="Olá, sou Jonnas Figueiredo - QA Automation Engineer">
 </p>
 
-<p align="center"><a href="#english">🇬🇧 Read this in English</a></p>
+<p align="center"><a href="#english">Read this in English</a></p>
 
 ## Sobre mim
 
@@ -59,10 +59,5 @@ I contribute to open source whenever I find something worth improving. In [moto]
 - **[Hefesto](https://github.com/JonnasFigueiredo/hefesto)**: an AI platform for QA and PO. From a requirement, or even a screenshot, it writes the story in Jira, assesses whether it is ready for development, creates the test cases and shows what was left uncovered. It also works straight from AI assistant chats and with models running on your own machine.
 - **[Hermes](https://github.com/JonnasFigueiredo/Hermes)**: a mobile E2E test automation framework with Appium, Java and Cucumber. The same scenarios, written in Portuguese, run on Android and iOS without duplicated code: only the selectors change between platforms, and the target (local emulator or a grid of emulators in Docker) is picked by configuration. On GitHub Actions the suite runs across a matrix of Android emulators and an iOS simulator, with a [published Allure report](https://jonnasfigueiredo.github.io/Hermes/).
 
-## Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,spring,ts,py,fastapi,docker,githubactions,mysql,git&theme=dark&perline=10" alt="Tech">
-</p>
 
 </details>
