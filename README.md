@@ -20,7 +20,7 @@ Trabalho com testes de aplicações web, mobile, API e backend. Além de Java e 
 
 Também gosto de compartilhar o que aprendo: faço palestras sobre qualidade e automação de testes.
 
-Contribuo com projetos open source quando encontro algo que dá pra melhorar. No [moto](https://github.com/getmoto/moto/pulls?q=is%3Apr+author%3AJonnasFigueiredo+is%3Amerged) implementei três APIs da AWS que faltavam: upload de camadas no ECR, atributos de serviço no Cloud Map e `UpdatePipe` no EventBridge Pipes. No [Pillow](https://github.com/python-pillow/Pillow/pull/9906) corrigi um heap-buffer-overflow no `BoxBlur`. No [testcontainers](https://github.com/search?q=org%3Atestcontainers+is%3Apr+author%3AJonnasFigueiredo+is%3Amerged&type=pullrequests) escrevi dois módulos novos, Toxiproxy em Python e InfluxDB em TypeScript. No JUnit, escrevi a [seção da documentação sobre instâncias e estado de extensões](https://github.com/junit-team/junit-framework/pull/6010).
+Contribuo com projetos open source quando encontro algo que dá pra melhorar. No [moto](https://github.com/getmoto/moto/pulls?q=is%3Apr+author%3AJonnasFigueiredo+is%3Amerged), contribuí com implementações de APIs da AWS, incluindo ECR, Cloud Map, EventBridge, AMP, GuardDuty e Shield, além de melhorias nos testes. No [Pillow](https://github.com/python-pillow/Pillow/pull/9906) corrigi um heap-buffer-overflow no `BoxBlur`. No [testcontainers](https://github.com/search?q=org%3Atestcontainers+is%3Apr+author%3AJonnasFigueiredo+is%3Amerged&type=pullrequests) escrevi dois módulos novos, Toxiproxy em Python e InfluxDB em TypeScript. No JUnit, escrevi a [seção da documentação sobre instâncias e estado de extensões](https://github.com/junit-team/junit-framework/pull/6010).
 
 ## Projetos
 
@@ -51,7 +51,7 @@ I test web, mobile, API and backend applications. Besides Java and Selenium, I w
 
 I also like sharing what I learn: I give talks about quality and test automation.
 
-I contribute to open source whenever I find something worth improving. In [moto](https://github.com/getmoto/moto/pulls?q=is%3Apr+author%3AJonnasFigueiredo+is%3Amerged) I implemented three missing AWS APIs: ECR layer upload, Cloud Map service attributes and `UpdatePipe` in EventBridge Pipes. In [Pillow](https://github.com/python-pillow/Pillow/pull/9906) I fixed a heap-buffer-overflow in `BoxBlur`. In [testcontainers](https://github.com/search?q=org%3Atestcontainers+is%3Apr+author%3AJonnasFigueiredo+is%3Amerged&type=pullrequests) I wrote two new modules, Toxiproxy in Python and InfluxDB in TypeScript. In JUnit, I wrote the [documentation section on extension instances and state](https://github.com/junit-team/junit-framework/pull/6010).
+I contribute to open source whenever I find something worth improving. In [moto](https://github.com/getmoto/moto/pulls?q=is%3Apr+author%3AJonnasFigueiredo+is%3Amerged), I contributed AWS API implementations for services including ECR, Cloud Map, EventBridge, AMP, GuardDuty and Shield, as well as test improvements. In [Pillow](https://github.com/python-pillow/Pillow/pull/9906) I fixed a heap-buffer-overflow in `BoxBlur`. In [testcontainers](https://github.com/search?q=org%3Atestcontainers+is%3Apr+author%3AJonnasFigueiredo+is%3Amerged&type=pullrequests) I wrote two new modules, Toxiproxy in Python and InfluxDB in TypeScript. In JUnit, I wrote the [documentation section on extension instances and state](https://github.com/junit-team/junit-framework/pull/6010).
 
 ## Projects
 
